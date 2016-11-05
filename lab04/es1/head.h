@@ -1,0 +1,1 @@
+FILE *fopenr(char nomefile[]);

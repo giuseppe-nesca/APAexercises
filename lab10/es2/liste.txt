@@ -1,0 +1,13 @@
+3
+4 coop
+mozzarella 3
+salmone_affumicato 1
+sale 3
+zucchero 2
+2 panorama
+acqua 4
+latte 10
+3 carrefour
+cola 2
+vino 6
+pane_bianco 12

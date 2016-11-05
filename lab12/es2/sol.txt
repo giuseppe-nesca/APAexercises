@@ -1,0 +1,15 @@
+glutei
+adduttori
+bicipiti
+F_TERM
+gastrocnemio
+abduttori
+femorali
+F_TERM
+dorsali
+tricipiti
+deltoidi
+F_TERM
+addominali
+pettorali
+F_TERM

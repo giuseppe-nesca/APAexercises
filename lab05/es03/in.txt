@@ -1,0 +1,7 @@
+6
+s123456 Mario Rossi 28/05/1995 M
+s123468 Lucia Richard 14/06/1996 F
+s123453	Clara Zecca 25/04/1995 F
+s145323 Ciccio Telo 14/08/1980 M
+s125862	Giovanni Mucci 30/08/1992 M
+s124865 Armando Verdi  26/10/1990 M

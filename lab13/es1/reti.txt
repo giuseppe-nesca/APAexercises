@@ -1,0 +1,13 @@
+6
+Uriel 3
+Igni 0
+Tatooine 1
+Yrden 3
+Shiva 0
+Sirius 5
+
+Uriel Igni 3
+Sirius Uriel 2
+Tatooine Shiva 7
+Uriel Yrden 4
+Igni Shiva 3

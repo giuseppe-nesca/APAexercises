@@ -1,0 +1,13 @@
+3
+4
+mozzarella 3
+salmone_affumicato 1
+sale 3
+zucchero 2
+2
+acqua 4
+latte 10
+3
+cola 2
+vino 6
+pane_bianco 12

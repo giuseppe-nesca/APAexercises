@@ -1,0 +1,4 @@
+2 Ritiro A2
+3 Spedizione B14
+1 Versamento A10
+2 Pagamento C26

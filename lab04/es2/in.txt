@@ -1,0 +1,4 @@
+3
+s123456 Mario Rossi 28/05/1995 M
+s123468 Lucia Santa 14/06/1996 F
+s123453	Clara Zecca 25/04/1995 F

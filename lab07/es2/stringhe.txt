@@ -1,0 +1,16 @@
+acqua
+vino
+arance
+mele
+fusilli
+cola
+latte
+pane_bianco
+pane_integrale
+passata_pomodoro
+salmone_affumicato
+mozzarella
+zucchero 
+farina_00
+sale
+grana_padano
